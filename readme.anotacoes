@@ -1,0 +1,7 @@
+um Hook é uma função que permite ligar/conectar os recursos de estados/ciclos de vida apartir de components funcionais
+[ useNomeDoHook, useState, useEffect ... ]
++substitui as classes por funções
++paradigma funcional (tudo é baseado em função)
++simples, independente e flexivel
+
+
